@@ -1,0 +1,5 @@
+data/processed/*
+!data/processed/selected_contracts.csv
+data/raw/
+*.json
+.DS_Store
